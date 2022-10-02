@@ -64,7 +64,7 @@ function App() {
 
   return (
     <>
-      {loading && <Loader />}
+
       <IntroVideo />
       {/* freshTopic-1*/}
       <Section
